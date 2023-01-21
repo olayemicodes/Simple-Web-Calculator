@@ -1,7 +1,7 @@
 # Title
 A Simple Web Calculator
 # About
-My first solid Javascript project. A functional and responsive calculator to perform basic arithmetic operations
+My first ever Javascript project. A functional and responsive calculator to perform basic arithmetic operations
 # Technologies Used
 Javascript
 # Skills
